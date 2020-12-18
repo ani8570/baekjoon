@@ -1,2 +1,2 @@
 # baekjoon
-## Q solution using C or Python
+Q.number  solute using C or Python
